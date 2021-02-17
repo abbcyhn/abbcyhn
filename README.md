@@ -51,11 +51,6 @@
 
 [Simple Go Web API](https://github.com/abbcyhn/simple-go-web-api)
 
-## Desktop Applications
-[Tic Tac Toe](https://github.com/abbcyhn/game-tictactoe-winform)
-
-[Snake Game](https://github.com/abbcyhn/game-snake-winform)
-
 ## Design Patterns
 [POST-REDIRECT-GET](https://github.com/abbcyhn/pattern-prg)
 
@@ -86,17 +81,9 @@
 
 [DayOfTheProgrammer](https://github.com/abbcyhn/algorithms/tree/master/DayOfTheProgrammer)
 
-[BonAppetit](https://github.com/abbcyhn/algorithms/tree/master/BonAppetit)
-
-[SockMerchant](https://github.com/abbcyhn/algorithms/tree/master/SockMerchant)
-
-[DrawingBook](https://github.com/abbcyhn/algorithms/tree/master/DrawingBook)
-
-[IceCreamParlor](https://github.com/abbcyhn/algorithms/tree/master/IceCreamParlor)
-
 ➡️ [more projects...](https://github.com/abbcyhn?tab=repositories)
 
-<summary>:zap: GitHub Stats</summary>
+
 <img align="left" alt="abbcyhn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abbcyhn&show_icons=true&hide_border=true" />
 
 
