@@ -42,8 +42,6 @@
 
 ---
 
-## 📖 Contents
-
 ## 🧠 AI & Machine Learning
 ## ⌨️ Algorithms
 ## 📚 Books & Courses
@@ -84,7 +82,6 @@
 [TimeConversion](https://github.com/abbcyhn/algorithms/tree/master/TimeConversion)
 
 [GradingStudents](https://github.com/abbcyhn/algorithms/tree/master/GradingStudents)
-
 [DayOfTheProgrammer](https://github.com/abbcyhn/algorithms/tree/master/DayOfTheProgrammer)
 
 ➡️ [more projects...](https://github.com/abbcyhn?tab=repositories)
