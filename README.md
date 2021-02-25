@@ -43,7 +43,25 @@
 ---
 
 ## 🧠 AI & Machine Learning
+[Number Guesser Neural Network](https://github.com/abbcyhn/number-guesser-neural-network)
+
 ## ⌨️ Algorithms
+[Compare the Triplets](https://github.com/abbcyhn/algorithms/tree/master/CompareTheTriplets)
+
+[AVeryBigSum](https://github.com/abbcyhn/algorithms/tree/master/AVeryBigSum)
+
+[DiagonalDifference](https://github.com/abbcyhn/algorithms/tree/master/DiagonalDifference)
+
+[PlusMinus](https://github.com/abbcyhn/algorithms/tree/master/PlusMinus)
+
+[Staircase](https://github.com/abbcyhn/algorithms/tree/master/Staircase)
+
+[MiniMaxSum](https://github.com/abbcyhn/algorithms/tree/master/MiniMaxSum)
+
+[BirthdayCakeCandles](https://github.com/abbcyhn/algorithms/tree/master/BirthdayCakeCandles)
+
+➡️ [more projects...](https://github.com/abbcyhn/algorithms)
+
 ## 📚 Books & Courses
 ## 💾 Kernel Development
 ## ⏭️ Other Projects
@@ -65,26 +83,7 @@
 [Candy IRC Bot](https://github.com/abbcyhn/candyirc)
 
 ## Algorithms
-[Compare the Triplets](https://github.com/abbcyhn/algorithms/tree/master/CompareTheTriplets)
 
-[AVeryBigSum](https://github.com/abbcyhn/algorithms/tree/master/AVeryBigSum)
-
-[DiagonalDifference](https://github.com/abbcyhn/algorithms/tree/master/DiagonalDifference)
-
-[PlusMinus](https://github.com/abbcyhn/algorithms/tree/master/PlusMinus)
-
-[Staircase](https://github.com/abbcyhn/algorithms/tree/master/Staircase)
-
-[MiniMaxSum](https://github.com/abbcyhn/algorithms/tree/master/MiniMaxSum)
-
-[BirthdayCakeCandles](https://github.com/abbcyhn/algorithms/tree/master/BirthdayCakeCandles)
-
-[TimeConversion](https://github.com/abbcyhn/algorithms/tree/master/TimeConversion)
-
-[GradingStudents](https://github.com/abbcyhn/algorithms/tree/master/GradingStudents)
-[DayOfTheProgrammer](https://github.com/abbcyhn/algorithms/tree/master/DayOfTheProgrammer)
-
-➡️ [more projects...](https://github.com/abbcyhn?tab=repositories)
 
 
 [twitter]: https://twitter.com/abbcyhn
