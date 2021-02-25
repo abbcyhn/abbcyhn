@@ -35,7 +35,7 @@
 ---
 
 ## 🧠 AI & Machine Learning
-[Number Guesser Neural Network](https://github.com/abbcyhn/number-guesser-neural-network){:target="_blank" rel="noopener"}
+[Number Guesser Neural Network](https://github.com/abbcyhn/number-guesser-neural-network)
 
 ## ⌨️ Algorithms
 [Compare the Triplets](https://github.com/abbcyhn/algorithms/tree/master/CompareTheTriplets)
