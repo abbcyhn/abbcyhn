@@ -60,7 +60,7 @@
 
 [BirthdayCakeCandles](https://github.com/abbcyhn/algorithms/tree/master/BirthdayCakeCandles)
 
-➡️ [more projects...](https://github.com/abbcyhn/algorithms)
+➡️ [show more...](https://github.com/abbcyhn/algorithms)
 
 ## 📚 Books & Courses
 ## 💾 Kernel Development
