@@ -11,23 +11,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="images/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="images/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="images/instagram.svg" />][instagram]
+[<img align="left" target="_blank" alt="YouTube" width="22px" src="images/youtube.svg" />][youtube]
+[<img align="left" target="_blank" alt="Twitter" width="22px" src="images/twitter.svg" />][twitter]
+[<img align="left" target="_blank" alt="LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" target="_blank" alt="Instagram" width="22px" src="images/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Csharp" width="26px" src="images/csharp.svg" />
-<img align="left" alt="HTML5" width="26px" src="images/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="images/css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="images/javascript.svg" />
-<img align="left" alt="OracleSql" width="26px" src="images/oraclesql.svg" />
-<img align="left" alt="Python" width="26px" src="images/python.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="images/visual-studio.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
+<img align="left" target="_blank" alt="Csharp" width="26px" src="images/csharp.svg" />
+<img align="left" target="_blank" alt="HTML5" width="26px" src="images/html.svg" />
+<img align="left" target="_blank" alt="CSS3" width="26px" src="images/css.svg" />
+<img align="left" target="_blank" alt="JavaScript" width="26px" src="images/javascript.svg" />
+<img align="left" target="_blank" alt="OracleSql" width="26px" src="images/oraclesql.svg" />
+<img align="left" target="_blank" alt="Python" width="26px" src="images/python.svg" />
+<img align="left" target="_blank" alt="Visual Studio" width="26px" src="images/visual-studio.svg" />
+<img align="left" target="_blank" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
 
 <br />
 <br />
