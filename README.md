@@ -54,15 +54,12 @@
 
 ➡️ [show more...](https://github.com/abbcyhn/algorithms)
 
-## 📚 Books & Courses
-[Nand to Tetris](https://github.com/abbcyhn/nand2tetris)
-
-[Programming From the Ground Up](https://github.com/abbcyhn/assembly)
 
 ## 💾 Kernel Development
 [Hobbyist operating system](https://github.com/abbcyhn/toyos)
 
 [Linux Kernel Development](https://github.com/abbcyhn/kernel_modules)
+
 
 ## ⏭️ Other Projects
 [Candy IRC Bot](https://github.com/abbcyhn/candyirc)
@@ -77,6 +74,11 @@
 
 ➡️ [show more...](https://github.com/abbcyhn?tab=repositories)
 
+
+## 📚 Books & Courses - I currently learning
+[Nand to Tetris](https://github.com/abbcyhn/nand2tetris)
+
+[Programming From the Ground Up](https://github.com/abbcyhn/assembly)
 
 
 
