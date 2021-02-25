@@ -25,9 +25,9 @@
 <img align="left" alt="CSS3" width="26px" src="images/css.svg" />
 <img align="left" alt="JavaScript" width="26px" src="images/javascript.svg" />
 <img align="left" alt="OracleSql" width="26px" src="images/oraclesql.svg" />
+<img align="left" alt="Python" width="26px" src="images/python.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="images/visual-studio.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="images/terminal.svg" />
 
 <br />
 <br />
