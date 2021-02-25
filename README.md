@@ -63,26 +63,28 @@
 ➡️ [show more...](https://github.com/abbcyhn/algorithms)
 
 ## 📚 Books & Courses
-## 💾 Kernel Development
-## ⏭️ Other Projects
+[Nand to Tetris]
 
-## Web Applications
+[Programming From the Ground Up](https://github.com/abbcyhn/assembly)
+
+## 💾 Kernel Development
+[Hobbyist operating system](https://github.com/abbcyhn/toyos)
+
+[Linux Kernel Development](https://github.com/abbcyhn/kernel_modules)
+
+## ⏭️ Other Projects
+[Candy IRC Bot](https://github.com/abbcyhn/candyirc)
+
+[POST-REDIRECT-GET](https://github.com/abbcyhn/pattern-prg)
+
+[Simple Go Web API](https://github.com/abbcyhn/simple-go-web-api)
+
 [Dispatcher Web Application](https://github.com/abbcyhn/dispatcher)
 
 [Online Exam Web Application](https://github.com/abbcyhn/online-exam)
 
-[Simple Go Web API](https://github.com/abbcyhn/simple-go-web-api)
+➡️ [show more...](https://github.com/abbcyhn?tab=repositories)
 
-## Design Patterns
-[POST-REDIRECT-GET](https://github.com/abbcyhn/pattern-prg)
-
-## OS Development
-[ToyOS](https://github.com/abbcyhn/toyos)
-
-## Bots
-[Candy IRC Bot](https://github.com/abbcyhn/candyirc)
-
-## Algorithms
 
 
 
