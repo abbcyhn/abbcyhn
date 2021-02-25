@@ -44,6 +44,12 @@
 
 ### 📖 Contents
 
+## 🧠 AI & Machine Learning
+## ⌨️ Algorithms
+## 📚 Books & Courses
+## 💾 Kernel Development
+## ⏭️ Other Projects
+
 ## Web Applications
 [Dispatcher Web Application](https://github.com/abbcyhn/dispatcher)
 
