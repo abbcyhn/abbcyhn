@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="abbcyhn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="abbcyhn | Twitter" width="22px" src="https://drive.google.com/open?id=1aSaHoc07okACZeoAFKuA6VI4e6KsqH5y" />][twitter]
+[<img align="left" alt="abbcyhn | Twitter" width="22px" src="https://drive.google.com/uc?export=download&id=1aSaHoc07okACZeoAFKuA6VI4e6KsqH5y" />][twitter]
 [<img align="left" alt="abbcyhn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abbcyhn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
