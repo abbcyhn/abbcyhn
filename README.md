@@ -42,7 +42,7 @@
 
 ---
 
-### 📖 Contents
+## 📖 Contents
 
 ## 🧠 AI & Machine Learning
 ## ⌨️ Algorithms
