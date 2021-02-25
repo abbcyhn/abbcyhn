@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abbcyhn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabbcyhn&screen_name=abbcyhn)
 
-## I'm a Developer, and Teacher!!
+## I'm a Programmer!
 
-- 🔭 I'm currently working on a [Fundamentals of C#!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working on a [Fundamentals of C#][course]
+- 🌱 I’m currently learning everything :D
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and play piano
 
@@ -55,7 +55,7 @@
 ➡️ [show more...](https://github.com/abbcyhn/algorithms)
 
 ## 📚 Books & Courses
-[Nand to Tetris]
+[Nand to Tetris](https://github.com/abbcyhn/nand2tetris)
 
 [Programming From the Ground Up](https://github.com/abbcyhn/assembly)
 
