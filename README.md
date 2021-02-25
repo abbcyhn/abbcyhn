@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="abbcyhn | YouTube" width="22px" src="images/youtube.svg" />][youtube]
-[<img align="left" alt="abbcyhn | Twitter" width="22px" src="images/twitter.svg" />][twitter]
-[<img align="left" alt="abbcyhn | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="abbcyhn | Instagram" width="22px" src="images/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="images/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="images/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="images/instagram.svg" />][instagram]
 
 <br />
 
