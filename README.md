@@ -78,7 +78,7 @@
 ## 📚 Books & Courses - I currently learning
 [Nand to Tetris](https://github.com/abbcyhn/nand2tetris)
 
-[Programming From the Ground Up](https://github.com/abbcyhn/assembly)
+[Programming From the Ground Up - Completed](https://github.com/abbcyhn/assembly)
 
 
 
