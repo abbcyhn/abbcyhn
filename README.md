@@ -75,7 +75,7 @@
 ➡️ [show more...](https://github.com/abbcyhn?tab=repositories)
 
 
-## 📚 Books & Courses - I currently learning
+## 📚 Books & Courses - I'm learning
 [Nand to Tetris](https://github.com/abbcyhn/nand2tetris)
 
 [Programming From the Ground Up](https://github.com/abbcyhn/assembly) - Completed
