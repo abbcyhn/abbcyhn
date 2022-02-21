@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on a [Fundamentals of C#][course]
 - 🌱 I’m currently learning everything :D
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and play piano
 
 ### Connect with me:
