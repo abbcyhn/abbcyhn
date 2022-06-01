@@ -34,9 +34,6 @@
 
 ---
 
-## 🧠 AI & Machine Learning
-[Number Guesser Neural Network](https://github.com/abbcyhn/number-guesser-neural-network)
-
 ## ⌨️ Algorithms
 [Compare the Triplets](https://github.com/abbcyhn/algorithms/tree/master/CompareTheTriplets)
 
@@ -55,29 +52,19 @@
 ➡️ [show more...](https://github.com/abbcyhn/algorithms)
 
 
-## 💾 Kernel Development
+## ⏭️ Projects
 [Hobbyist operating system](https://github.com/abbcyhn/toyos)
 
-[Linux Kernel Development](https://github.com/abbcyhn/kernel_modules)
-
-
-## ⏭️ Other Projects
 [Candy IRC Bot](https://github.com/abbcyhn/candyirc)
 
 [POST-REDIRECT-GET](https://github.com/abbcyhn/pattern-prg)
 
 [Simple Go Web API](https://github.com/abbcyhn/simple-go-web-api)
 
-[Dispatcher Web Application](https://github.com/abbcyhn/dispatcher)
-
-[Online Exam Web Application](https://github.com/abbcyhn/online-exam)
-
 ➡️ [show more...](https://github.com/abbcyhn?tab=repositories)
 
 
 ## 📚 Books & Courses - I'm learning
-<!-- [Nand to Tetris](https://github.com/abbcyhn/nand2tetris) -->
-
 [Programming From the Ground Up](https://github.com/abbcyhn/assembly) - Completed
 
 
