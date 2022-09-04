@@ -34,32 +34,10 @@
 
 ---
 
-## ⌨️ Algorithms
-[Compare the Triplets](https://github.com/abbcyhn/algorithms/tree/master/CompareTheTriplets)
-
-[AVeryBigSum](https://github.com/abbcyhn/algorithms/tree/master/AVeryBigSum)
-
-[DiagonalDifference](https://github.com/abbcyhn/algorithms/tree/master/DiagonalDifference)
-
-[PlusMinus](https://github.com/abbcyhn/algorithms/tree/master/PlusMinus)
-
-[Staircase](https://github.com/abbcyhn/algorithms/tree/master/Staircase)
-
-[MiniMaxSum](https://github.com/abbcyhn/algorithms/tree/master/MiniMaxSum)
-
-[BirthdayCakeCandles](https://github.com/abbcyhn/algorithms/tree/master/BirthdayCakeCandles)
-
-➡️ [show more...](https://github.com/abbcyhn/algorithms)
-
-
-## ⏭️ Projects
+## ⏭️ Hobby Projects
 [Hobbyist operating system](https://github.com/abbcyhn/toyos)
 
 [Candy IRC Bot](https://github.com/abbcyhn/candyirc)
-
-[POST-REDIRECT-GET](https://github.com/abbcyhn/pattern-prg)
-
-[Simple Go Web API](https://github.com/abbcyhn/simple-go-web-api)
 
 ➡️ [show more...](https://github.com/abbcyhn?tab=repositories)
 
