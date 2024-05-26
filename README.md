@@ -1,7 +1,8 @@
-### Hi there, I'm Jeyhun <img alt="Giphy" width="22px" src="images/giphy.webp" />
+### Hi there,
 
 ### I'm
 
+- <img alt="Giphy" width="15px" src="images/giphy.webp" /> Jeyhun 
 - 📍a Senior Software Engineer based in Tallinn, Estonia
 - 💻 currently developing cool stuffs using Java & Spring Boot
 - 🤖 an AI enthusiast
